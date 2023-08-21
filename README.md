@@ -1,7 +1,9 @@
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washer34" alt="washer34" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*3N994lFVAwmVTsYJ.gif">
 
 - 🌱 I’m currently learning **Ruby, Rails, JS, React, Vite**
 
