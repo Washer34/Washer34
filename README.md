@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washer34" alt="washer34" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*3N994lFVAwmVTsYJ.gif">
 
-- 🌱 I’m currently learning **Ruby, Rails, JS, React, Vite**
+- 🌱 I’m currently learning **Node, React, Vite, JS, Ruby, Rails**
 
 - 👨‍💻 All of my projects are available at [antoine-paturel.vercel.app](antoine-paturel.vercel.app)
 
